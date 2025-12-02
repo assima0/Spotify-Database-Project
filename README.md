@@ -160,5 +160,11 @@ This shows which artists dominate overall relative to everyone else.
 
 These examples highlight how the database enables efficient analysis of artist activity, collaborations, popularity, and streaming performance across platforms.
 
+## Contributors
+- AssimaAmangeldina
+- Ceyla Kaya
+- Sabina Nurseitova
+- Ziyi Dong
+
 ## License
 This project is for educational purposes only.
